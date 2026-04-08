@@ -11,7 +11,7 @@ require (
 	github.com/YakDriver/go-version v0.1.0
 	github.com/YakDriver/regexache v0.24.0
 	github.com/YakDriver/smarterr v0.6.0
-	github.com/aws/aws-sdk-go-v2 v1.39.2
+	github.com/aws/aws-sdk-go-v2 v1.41.5
 	github.com/aws/aws-sdk-go-v2/config v1.31.12
 	github.com/aws/aws-sdk-go-v2/credentials v1.18.16
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.9
@@ -62,7 +62,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/cloudsearch v1.31.6
 	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.53.6
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.51.1
-	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.58.2
+	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.65.0
 	github.com/aws/aws-sdk-go-v2/service/codeartifact v1.38.6
 	github.com/aws/aws-sdk-go-v2/service/codebuild v1.67.5
 	github.com/aws/aws-sdk-go-v2/service/codecatalyst v1.20.8
@@ -271,7 +271,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.63.6
 	github.com/aws/aws-sdk-go-v2/service/workspacesweb v1.32.6
 	github.com/aws/aws-sdk-go-v2/service/xray v1.36.4
-	github.com/aws/smithy-go v1.23.0
+	github.com/aws/smithy-go v1.24.2
 	github.com/beevik/etree v1.6.0
 	github.com/cedar-policy/cedar-go v1.2.6
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
@@ -323,9 +323,9 @@ require (
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.9 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.9 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.8 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.21 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.21 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.3 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.9 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.1 // indirect
