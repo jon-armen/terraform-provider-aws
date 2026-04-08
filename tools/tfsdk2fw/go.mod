@@ -19,7 +19,7 @@ require (
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.39.2 // indirect
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.1 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.8 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.31.12 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.18.16 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.9 // indirect
@@ -289,7 +289,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.63.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/workspacesweb v1.32.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/xray v1.36.4 // indirect
-	github.com/aws/smithy-go v1.23.0 // indirect
+	github.com/aws/smithy-go v1.24.2 // indirect
 	github.com/beevik/etree v1.6.0 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/cedar-policy/cedar-go v1.2.6 // indirect
